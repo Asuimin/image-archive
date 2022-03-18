@@ -1,0 +1,107 @@
+<svg width="752" height="164" xmlns="http://www.w3.org/2000/svg" id="grass-graph">
+<style> #grass-graph .pixel {     width: 10px;     height: 10px;     rx: 2px;     ry: 2px;     stroke: rgba(27,31,35,0.06);     stroke-width: 2px;   }   #grass-graph text {     font-family: monospace;     font-size: 15px;     fill: #000000;   }   #grass-graph .NONE { fill: #eeeeee; }   #grass-graph .FIRST_QUARTILE { fill: #9be9a8; }   #grass-graph .SECOND_QUARTILE { fill: #40c463; }   #grass-graph .THIRD_QUARTILE { fill: #30a14e; }   #grass-graph .FOURTH_QUARTILE { fill: #216e39; }   </style>
+<rect width="752" height="164" stroke="none" stroke-width="2px" fill="none"></rect>
+<g><text transform="translate(18, 76)">Mon</text></g>
+<g><text transform="translate(18, 102)">Wed</text></g>
+<g><text transform="translate(18, 128)">Fri</text></g>
+<g><text transform="translate(51, 46)">Jan</text></g>
+<g><text transform="translate(116, 46)">Feb</text></g>
+<g><text transform="translate(168, 46)">Mar</text></g>
+<g><text transform="translate(233, 46)">Apr</text></g>
+<g><text transform="translate(285, 46)">May</text></g>
+<g><text transform="translate(337, 46)">Jun</text></g>
+<g><text transform="translate(402, 46)">Jul</text></g>
+<g><text transform="translate(454, 46)">Aug</text></g>
+<g><text transform="translate(506, 46)">Sep</text></g>
+<g><text transform="translate(571, 46)">Oct</text></g>
+<g><text transform="translate(623, 46)">Nov</text></g>
+<g><text transform="translate(675, 46)">Dec</text></g>
+<g transform="translate(51, 53)">
+<rect class="pixel FIRST_QUARTILE" x="0" y="78" data-date="2022-01-01" data-count="1"><title>2022-01-01: 1</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="13" y="0" data-date="2022-01-02" data-count="3"><title>2022-01-02: 3</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="13" y="13" data-date="2022-01-03" data-count="3"><title>2022-01-03: 3</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="13" y="26" data-date="2022-01-04" data-count="2"><title>2022-01-04: 2</title></rect>
+<rect class="pixel NONE" x="13" y="39" data-date="2022-01-05" data-count="0"><title>2022-01-05: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="13" y="52" data-date="2022-01-06" data-count="1"><title>2022-01-06: 1</title></rect>
+<rect class="pixel NONE" x="13" y="65" data-date="2022-01-07" data-count="0"><title>2022-01-07: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="13" y="78" data-date="2022-01-08" data-count="1"><title>2022-01-08: 1</title></rect>
+<rect class="pixel NONE" x="26" y="0" data-date="2022-01-09" data-count="0"><title>2022-01-09: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="26" y="13" data-date="2022-01-10" data-count="1"><title>2022-01-10: 1</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="26" y="26" data-date="2022-01-11" data-count="3"><title>2022-01-11: 3</title></rect>
+<rect class="pixel NONE" x="26" y="39" data-date="2022-01-12" data-count="0"><title>2022-01-12: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="26" y="52" data-date="2022-01-13" data-count="1"><title>2022-01-13: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="26" y="65" data-date="2022-01-14" data-count="1"><title>2022-01-14: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="26" y="78" data-date="2022-01-15" data-count="1"><title>2022-01-15: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="39" y="0" data-date="2022-01-16" data-count="1"><title>2022-01-16: 1</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="39" y="13" data-date="2022-01-17" data-count="4"><title>2022-01-17: 4</title></rect>
+<rect class="pixel NONE" x="39" y="26" data-date="2022-01-18" data-count="0"><title>2022-01-18: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="39" y="39" data-date="2022-01-19" data-count="1"><title>2022-01-19: 1</title></rect>
+<rect class="pixel NONE" x="39" y="52" data-date="2022-01-20" data-count="0"><title>2022-01-20: 0</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="39" y="65" data-date="2022-01-21" data-count="4"><title>2022-01-21: 4</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="39" y="78" data-date="2022-01-22" data-count="3"><title>2022-01-22: 3</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="52" y="0" data-date="2022-01-23" data-count="1"><title>2022-01-23: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="52" y="13" data-date="2022-01-24" data-count="2"><title>2022-01-24: 2</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="52" y="26" data-date="2022-01-25" data-count="1"><title>2022-01-25: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="52" y="39" data-date="2022-01-26" data-count="1"><title>2022-01-26: 1</title></rect>
+<rect class="pixel NONE" x="52" y="52" data-date="2022-01-27" data-count="0"><title>2022-01-27: 0</title></rect>
+<rect class="pixel NONE" x="52" y="65" data-date="2022-01-28" data-count="0"><title>2022-01-28: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="52" y="78" data-date="2022-01-29" data-count="1"><title>2022-01-29: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="65" y="0" data-date="2022-01-30" data-count="1"><title>2022-01-30: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="65" y="13" data-date="2022-01-31" data-count="2"><title>2022-01-31: 2</title></rect>
+<rect class="pixel NONE" x="65" y="26" data-date="2022-02-01" data-count="0"><title>2022-02-01: 0</title></rect>
+<rect class="pixel NONE" x="65" y="39" data-date="2022-02-02" data-count="0"><title>2022-02-02: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="65" y="52" data-date="2022-02-03" data-count="1"><title>2022-02-03: 1</title></rect>
+<rect class="pixel NONE" x="65" y="65" data-date="2022-02-04" data-count="0"><title>2022-02-04: 0</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="65" y="78" data-date="2022-02-05" data-count="3"><title>2022-02-05: 3</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="78" y="0" data-date="2022-02-06" data-count="3"><title>2022-02-06: 3</title></rect>
+<rect class="pixel NONE" x="78" y="13" data-date="2022-02-07" data-count="0"><title>2022-02-07: 0</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="78" y="26" data-date="2022-02-08" data-count="3"><title>2022-02-08: 3</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="78" y="39" data-date="2022-02-09" data-count="3"><title>2022-02-09: 3</title></rect>
+<rect class="pixel NONE" x="78" y="52" data-date="2022-02-10" data-count="0"><title>2022-02-10: 0</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="78" y="65" data-date="2022-02-11" data-count="4"><title>2022-02-11: 4</title></rect>
+<rect class="pixel NONE" x="78" y="78" data-date="2022-02-12" data-count="0"><title>2022-02-12: 0</title></rect>
+<rect class="pixel NONE" x="91" y="0" data-date="2022-02-13" data-count="0"><title>2022-02-13: 0</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="91" y="13" data-date="2022-02-14" data-count="2"><title>2022-02-14: 2</title></rect>
+<rect class="pixel NONE" x="91" y="26" data-date="2022-02-15" data-count="0"><title>2022-02-15: 0</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="91" y="39" data-date="2022-02-16" data-count="4"><title>2022-02-16: 4</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="91" y="52" data-date="2022-02-17" data-count="1"><title>2022-02-17: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="91" y="65" data-date="2022-02-18" data-count="2"><title>2022-02-18: 2</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="91" y="78" data-date="2022-02-19" data-count="2"><title>2022-02-19: 2</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="104" y="0" data-date="2022-02-20" data-count="1"><title>2022-02-20: 1</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="104" y="13" data-date="2022-02-21" data-count="5"><title>2022-02-21: 5</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="104" y="26" data-date="2022-02-22" data-count="2"><title>2022-02-22: 2</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="104" y="39" data-date="2022-02-23" data-count="4"><title>2022-02-23: 4</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="104" y="52" data-date="2022-02-24" data-count="1"><title>2022-02-24: 1</title></rect>
+<rect class="pixel NONE" x="104" y="65" data-date="2022-02-25" data-count="0"><title>2022-02-25: 0</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="104" y="78" data-date="2022-02-26" data-count="3"><title>2022-02-26: 3</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="117" y="0" data-date="2022-02-27" data-count="2"><title>2022-02-27: 2</title></rect>
+<rect class="pixel NONE" x="117" y="13" data-date="2022-02-28" data-count="0"><title>2022-02-28: 0</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="117" y="26" data-date="2022-03-01" data-count="5"><title>2022-03-01: 5</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="117" y="39" data-date="2022-03-02" data-count="1"><title>2022-03-02: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="117" y="52" data-date="2022-03-03" data-count="1"><title>2022-03-03: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="117" y="65" data-date="2022-03-04" data-count="2"><title>2022-03-04: 2</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="117" y="78" data-date="2022-03-05" data-count="2"><title>2022-03-05: 2</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="130" y="0" data-date="2022-03-06" data-count="1"><title>2022-03-06: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="130" y="13" data-date="2022-03-07" data-count="2"><title>2022-03-07: 2</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="130" y="26" data-date="2022-03-08" data-count="1"><title>2022-03-08: 1</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="130" y="39" data-date="2022-03-09" data-count="3"><title>2022-03-09: 3</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="130" y="52" data-date="2022-03-10" data-count="5"><title>2022-03-10: 5</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="130" y="65" data-date="2022-03-11" data-count="5"><title>2022-03-11: 5</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="130" y="78" data-date="2022-03-12" data-count="4"><title>2022-03-12: 4</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="143" y="0" data-date="2022-03-13" data-count="2"><title>2022-03-13: 2</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="143" y="13" data-date="2022-03-14" data-count="2"><title>2022-03-14: 2</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="143" y="26" data-date="2022-03-15" data-count="1"><title>2022-03-15: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="143" y="39" data-date="2022-03-16" data-count="1"><title>2022-03-16: 1</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="143" y="52" data-date="2022-03-17" data-count="1"><title>2022-03-17: 1</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="143" y="65" data-date="2022-03-18" data-count="2"><title>2022-03-18: 2</title></rect>
+</g>
+<g transform="translate(623, 153)">
+<text transform="translate(-13, 10)" text-anchor="end">Less</text>
+<rect class="pixel NONE" x="0" y="0" data-date="" data-count="0"><title>: 0</title></rect>
+<rect class="pixel FIRST_QUARTILE" x="13" y="0" data-date="" data-count="0"><title>: 0</title></rect>
+<rect class="pixel SECOND_QUARTILE" x="26" y="0" data-date="" data-count="0"><title>: 0</title></rect>
+<rect class="pixel THIRD_QUARTILE" x="39" y="0" data-date="" data-count="0"><title>: 0</title></rect>
+<rect class="pixel FOURTH_QUARTILE" x="52" y="0" data-date="" data-count="0"><title>: 0</title></rect>
+<text transform="translate(75, 10)">More</text>
+</g>
+</svg>
